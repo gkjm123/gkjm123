@@ -8,10 +8,3 @@
 
 ⭐[포트폴리오](https://immediate-tang-c7e.notion.site/dfbc48804df44d3a964dddd79fcc2a87)⭐
 
-</br>
-
-
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkjm123)](https://github.com/anuraghazra/github-readme-stats)
