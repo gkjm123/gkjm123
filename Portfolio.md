@@ -11,7 +11,8 @@
   
 [유튜브 채널](https://www.youtube.com/@user-mh7ib3xc9c)
 
-![5](https://github.com/gkjm123/Portfolio/assets/47303804/74128890-72aa-416f-b6df-8f6d447e1f1a)
+![5](https://github.com/gkjm123/gkjm123/assets/47303804/5d5b8b27-22db-44b3-8ba3-fdada0208de4)
+
 
 </br>
 
@@ -23,13 +24,15 @@ https://github.com/gkjm123/Discord_Mafia_Bot/assets/47303804/301223e9-1353-41d1-
 
 * ### 카톡 예약봇
   
-![카톡3](https://github.com/gkjm123/Portfolio/assets/47303804/88a42ed6-9ad1-4962-8f4a-0ee54cebf121)
+![카톡3](https://github.com/gkjm123/gkjm123/assets/47303804/4c0bac05-7a0d-4e99-86f3-4eea92a21e59)
+
 
 </br>
 
 * ### 파이썬을 통한 엑셀 업무자동화
 
-![maxresdefault](https://github.com/gkjm123/Portfolio/assets/47303804/6f907fba-37d8-431d-aa5d-1009c42b502b)
+![maxresdefault](https://github.com/gkjm123/gkjm123/assets/47303804/4b0bceb6-0ffa-40f2-b805-1e520b71cc38)
+
 
 </br>
 
@@ -46,7 +49,8 @@ https://github.com/gkjm123/Discord_Mafia_Bot/assets/47303804/301223e9-1353-41d1-
 
 </br>
   
-![1](https://github.com/gkjm123/Portfolio/assets/47303804/e8625fa5-bb80-475f-992c-f31a3451e181)
+![1](https://github.com/gkjm123/gkjm123/assets/47303804/53ec26ef-de95-4c54-a0d4-0f6cf0166cfa)
+
 
 </br>
 
@@ -55,7 +59,8 @@ https://github.com/gkjm123/Discord_Mafia_Bot/assets/47303804/301223e9-1353-41d1-
 
 </br>
 
-![2](https://github.com/gkjm123/Portfolio/assets/47303804/25da38ac-99e0-4692-8da0-94ba186029d6)
+![2](https://github.com/gkjm123/gkjm123/assets/47303804/bc63373c-3945-47a0-8da7-4a2f0fe87e56)
+
 
 </br>
 
